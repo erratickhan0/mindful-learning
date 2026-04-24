@@ -1,0 +1,12 @@
+<svg width="640" height="360" viewBox="0 0 640 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="360" rx="28" fill="#F3E8FF"/>
+  <circle cx="86" cy="84" r="44" fill="#C4B5FD"/>
+  <circle cx="560" cy="286" r="52" fill="#A78BFA"/>
+  <rect x="98" y="76" width="444" height="216" rx="28" fill="white"/>
+  <rect x="126" y="106" width="170" height="36" rx="12" fill="#F5F3FF"/>
+  <rect x="304" y="106" width="210" height="36" rx="12" fill="#EDE9FE"/>
+  <rect x="126" y="154" width="388" height="110" rx="20" fill="#FAF5FF"/>
+  <text x="150" y="224" fill="#7C3AED" font-size="76" font-family="Arial" font-weight="700">7 + 5 = 12</text>
+  <circle cx="512" cy="90" r="18" fill="#DDD6FE"/>
+  <circle cx="488" cy="74" r="10" fill="#E9D5FF"/>
+</svg>

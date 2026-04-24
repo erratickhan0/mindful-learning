@@ -1,0 +1,13 @@
+<svg width="640" height="360" viewBox="0 0 640 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="360" rx="28" fill="#DCFCE7"/>
+  <circle cx="98" cy="78" r="46" fill="#6EE7B7"/>
+  <circle cx="556" cy="286" r="56" fill="#34D399"/>
+  <rect x="92" y="72" width="456" height="216" rx="28" fill="white"/>
+  <rect x="124" y="102" width="386" height="46" rx="12" fill="#ECFDF5"/>
+  <rect x="124" y="158" width="386" height="102" rx="18" fill="#F7FEE7"/>
+  <text x="136" y="133" fill="#047857" font-size="30" font-family="Arial" font-weight="700">Plant Lab</text>
+  <text x="146" y="220" fill="#059669" font-size="30" font-family="Arial" font-weight="700">Sun + Water + Air</text>
+  <text x="205" y="252" fill="#10B981" font-size="28" font-family="Arial" font-weight="700">= Growth</text>
+  <circle cx="494" cy="92" r="16" fill="#A7F3D0"/>
+  <circle cx="468" cy="76" r="10" fill="#6EE7B7"/>
+</svg>
